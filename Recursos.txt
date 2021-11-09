@@ -1,0 +1,6 @@
+Docuemntación técnica react-router-dom v6
+https://reactrouter.com/docs/en/v6/getting-started/overview
+
+Heroku
+https://devcenter.heroku.com/articles/heroku-cli
+
